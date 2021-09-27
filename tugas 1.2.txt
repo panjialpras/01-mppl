@@ -1,0 +1,16 @@
+Klasik
+1. Waterfall Methodology
+        Metode waterfall adalah metode kerja yang menekankan fase-fase yang berurutan dan sistematis.
+2. Prototype Methodology
+        Metode prototype adalah metode yang memungkinkan pengguna atau user memiliki gambaran awal tentang perangkat lunak yang akan dikembangkan, serta pengguna dapat melakukan pengujian di awal sebelum perangkat lunak dirilis. Metode ini bertujuan untuk mengembangkan model menjadi perangkat lunak yang final.
+
+3. Fountain
+        Metode fountain adalah perbaikan dari metode waterfall, di mana jenis tahapan masih sama. Namun beberapa jenis tahapan boleh didahulukan atau dilewati, tetapi ada tahapan yang tidak bisa dilewati, contohnya seperti kamu memerlukan design sebelum melakukan implementasi, jika hal tersebut dilewati maka akan ada tumpang tindih
+
+Agile 
+1. Adaptive Software Development
+	Adaptive Software Development bisa di singkat ASD dapat digambarkan	 yaitu mewujudkan prinsip, bahwa adaptasi yang berdekatan dari proses kerja urusan keadaan normal. Metode ini bisa dikatakan menggantikan metode pengembangan software waterfall dengan serangkaian perulangan berspekulasi, berkolaborasi dan siklus. Siklus dinamis memberikan pembelajaran dan adaptasi kepada proyek. Karakteristik dari siklus hidup ASD adalah mengacu kepada misi fokus, berbasis fitur, perulangan, timeboxed, risiko, dan tolerasi yang berubah-ubah.
+2. Dynamic System Development 
+	Dynamic System Development Method adalah sebuah kerangka kerja yang mengutamakan keterlibatan pengguna secara berkesinambungan dengan pendekatan pengembangan secara berulang dan bertambah, yang menangani proyek secara efektif dan efisien
+3. Extreme Programming
+	Extreme Programming adalah sebuah pendekatan atau model pengembangan perangkat lunak yang mencoba menyederhanakan berbagai tahapan dalam proses pengembangan tersebut sehingga menjadi lebih adaptif dan fleksibel.
